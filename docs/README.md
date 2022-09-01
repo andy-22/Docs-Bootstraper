@@ -15,7 +15,7 @@ This readme.md file might be older. This file comes with a Bootstraper project. 
 ## Upgrade to latest pip
 
 ```python
-pip install --upgrade p
+pip install --upgrade pip
 ```
 
 ## Install mkdocs
