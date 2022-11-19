@@ -26,6 +26,11 @@ pip install mkdocs-material --user
 pip install mkdocs-material-extensions --user
 ```
 
+## Install lightbox
+```python
+pip install mkdocs-glightbox
+```
+
 ## Create a new project on Github
 
 Cretae a new project on Github for your documentation and clone it.

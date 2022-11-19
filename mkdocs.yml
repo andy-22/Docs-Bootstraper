@@ -40,6 +40,7 @@ plugins:
       lang: en
       prebuild_index: true
       indexing: full #Default is full. Other choices are "sections", "titles"
+  - glightbox
       
 markdown_extensions:
   - footnotes
